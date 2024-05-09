@@ -1,8 +1,8 @@
 # React + Vite
 
-Welcome to My Awesome Project! This README file will guide you through the project setup and usage.
-
 Link Deploy : https://frontend-dev-reactjs-soal-teknis-ryan-ramadhan.vercel.app/
+
+Hosting : Vercel
 
 ## React Version
 This project is built using React version 17.0.2.
